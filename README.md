@@ -26,8 +26,6 @@ Key engineered features include:
 - Best parameters found: `…`  
 - Best CV R²: 0.93116  
 - Training R²: `0.9401
-*(If you have a validation set, add Validation R² here)*  
-- Test R² / RMSE: `…`  
 
 ##  Submission  
 Generated predictions for `test.csv`, packaged into `submission.csv`, ready for upload to Kaggle or use in downstream analysis.  
