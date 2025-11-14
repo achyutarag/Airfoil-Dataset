@@ -42,6 +42,3 @@ Generated predictions for `test.csv`, packaged into `submission.csv`, ready for 
 Achyuta Raghunathan
 Math 10 (Introduction to Mathematical Data Science), University of California, Irvine  
 06/2/2025
-Your Name  
-Your program — e.g., Math 10 (Introduction to Mathematical Data Science), University of California, Irvine  
-Date  # Airfoil-Dataset
